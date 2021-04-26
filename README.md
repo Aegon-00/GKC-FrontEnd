@@ -2,6 +2,8 @@
 
 https://infinite-brushlands-70873.herokuapp.com
 
+GKC Backend : https://github.com/Aegon-00/GKC-Backend
+
 Tech Stack Used : 
 
 * Mongooose
